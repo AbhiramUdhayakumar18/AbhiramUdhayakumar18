@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Abhiram Udayakumar!
+## Hey folks Abhiram here!
 
 🎓 **BCA Computer Applications student** at SRM IST, Chennai  
 💻 Interested in **software development, UI/UX design, and automation**
