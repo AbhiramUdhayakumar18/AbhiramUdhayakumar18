@@ -18,7 +18,6 @@
 |-----------|--------------|-----------|
 | Python, C, HTML, CSS, JavaScript (learning) | Git, VS Code, Canva, Figma | UI/UX, Automation, Problem-solving |
 
-<img height="180em"
 https://github-profile-trophy.vercel.app/?username=Abhiramudhayakumar18&theme=Matrix
   
 <!--
