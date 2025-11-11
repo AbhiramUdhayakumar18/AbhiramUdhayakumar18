@@ -19,7 +19,7 @@
 | Python, C, HTML, CSS, JavaScript (learning) | Git, VS Code, Canva, Figma | UI/UX, Automation, Problem-solving |
 
 <img height="180em"
-src="https://github-profile-trophy.vercel.app/?username=Abhijith14&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=tokyonight"/>  
+src="https://github-profile-trophy.vercel.app/?username=AbhiramUdayakumar18&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=tokyonight"/>  
 <!--
 **AbhiramUdhayakumar18/AbhiramUdhayakumar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
