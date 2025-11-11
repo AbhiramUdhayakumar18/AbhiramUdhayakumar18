@@ -18,7 +18,17 @@
 |-----------|--------------|-----------|
 | Python, C, HTML, CSS, JavaScript (learning) | Git, VS Code, Canva, Figma | UI/UX, Automation, Problem-solving |
 
-https://github-profile-trophy.vercel.app/?username=AbhiramUdhayakumar18&column=-1
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/AbhiramUdhayakumar18">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=AbhiramUdhayakumar18&title=MultiLanguage,Organizations,Stars,Commits,Repositories,Experience,Followers,PullRequest&theme=matrix"/>  
+  <!-- https://github-readme-stats-eight-theta.vercel.app/api?username=AbhiramUdhayakumar18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhiramUdhayakumar18&theme=matrix&show_icons=true&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiramUdhayakumar18&layout=compact&langs_count=8&theme=matrix"/>
+  <br>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=AbhiramUdhayakumar18&theme=matrix"/>
+</a>
+</p>
   
 <!--
 **AbhiramUdhayakumar18/AbhiramUdhayakumar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
