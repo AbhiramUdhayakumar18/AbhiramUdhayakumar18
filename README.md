@@ -18,7 +18,7 @@
 |-----------|--------------|-----------|
 | Python, C, HTML, CSS, JavaScript (learning) | Git, VS Code, Canva, Figma | UI/UX, Automation, Problem-solving |
 
-https://github-profile-trophy.vercel.app/?username=Abhiramudhayakumar18&theme=Matrix
+https://github-profile-trophy.vercel.app/?username=AbhiramUdhayakumar18
   
 <!--
 **AbhiramUdhayakumar18/AbhiramUdhayakumar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
